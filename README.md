@@ -1,2 +1,3 @@
-# raccoon-match-game
-Implementation of a tiles matching game in Python with a raccoon twist
+# Raccoon Match Game
+
+This project implements a tiles matching game with raccoon pixel images as game assets.
