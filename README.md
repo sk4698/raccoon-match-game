@@ -19,7 +19,7 @@ To install <code> pygame </code> use:
 [Install PIP on Windows](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
 
 ## Assets
-I used raccoon pixel images for game assets. All of these images were generated using [DALL·E 2](https://openai.com/dall-e-2/)
+I used raccoon pixel images for game assets. All of these images were generated using [DALL·E 2](https://openai.com/dall-e-2/).
 
 ## Additional Links
 [Detailed info on Pygame](https://www.pygame.org/wiki/GettingStarted)
