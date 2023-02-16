@@ -1,6 +1,6 @@
 # Raccoon Match Game
 
-This project implements a [tiles matching game] with raccoon pixel images as game assets.
+This project implements a tile-matching game with raccoon pixel images as game assets.
 
 ## Dependencies
 <code> pygame </code>
