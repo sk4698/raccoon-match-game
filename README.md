@@ -7,15 +7,15 @@ This project implements a tile-matching game with raccoon pixel images as game a
 
 ## Installation
 To install <code> pygame </code> use:
-
+<br>
 <code> pip install pygame </code>
 
 <br>
 
 **If you don't have PIP installed:**
-
+<br>
 [Install PIP on macOS](https://www.geeksforgeeks.org/how-to-install-pip-in-macos/)
-
+<br>
 [Install PIP on Windows](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
 
 ## Assets
